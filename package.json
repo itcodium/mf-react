@@ -22,7 +22,7 @@
     "@babel/preset-react": "^7.23.3",
     "@babel/runtime": "^7.23.3",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.0.1",
+    "@testing-library/react": "15.0.6",
     "babel-jest": "^27.5.1",
     "concurrently": "^6.2.1",
     "cross-env": "^7.0.3",
@@ -43,8 +43,9 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "@zurich/web-components": "^0.6.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "single-spa-react": "^6.0.2"
   }
 }
